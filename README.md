@@ -1,16 +1,20 @@
-# DAY 1: Project Activity
+# Prerequisite by Trainer
 
-#### Step 1: Create Repository
+#### Step 1: Create Repository ( by Trainer )
 
 * Trainer has to create repository
 * Add access to developer
 
-#### Step 2: Developer Repository Access
+#### Step 2: Developer Repository Access ( by Trainer )
 * Developer will get invitation, Accept Invitation
+
+
+# DAY 1: Project Activity
 
 #### Step 3: Clone the Repository
 * git clone https://your-repo-url.git
 
+Note: Go to your project folder
 * cd yourprojectfolder
 
 #### Step 4: Import the Project in Eclipse
